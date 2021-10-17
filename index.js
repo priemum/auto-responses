@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const autoresSchema = require('./schemas/autores')
 const client = new Client();
 
-// ! -------------------------------------------
+// ! -------------------------------------------              
 const prefix = '!'
 const MONGODB_URI = 'mongodb://localhost:27017/auto-response-SMASH';
 const TOKEN = 'TOKEN IS HEREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE';
